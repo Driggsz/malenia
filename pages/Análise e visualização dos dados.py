@@ -8,7 +8,7 @@ df = pd.read_csv('malenia.csv')
 st.title('Análise do Conjunto de Dados - Malenia')
 
 st.write("""
-Este aplicativo Streamlit fornece uma análise inicial do conjunto de dados relacionado às batalhas contra Malenia, um chefe em Elden Ring.
+Este aplicativo Streamlit fornece uma análise inicial do conjunto de dados relacionado às batalhas contra Malenia, um dos chefes mais desafiadores do jogo Elden Ring.
 A seguir, apresentamos uma visão geral das colunas disponíveis e uma lista das colunas presentes no conjunto de dados.
 """)
 
