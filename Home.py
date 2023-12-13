@@ -1,3 +1,6 @@
+pip install --upgrade -r requirements.txt
+
+
 import streamlit as st
 
 
