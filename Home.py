@@ -1,13 +1,4 @@
-
-import matplotlib.pyplot as plt
 import streamlit as st
-import pandas as pd
-import numpy as np
-import sweetviz as sv
-
-
-
-df = pd.read_csv('malenia.csv')
 
 
 st.title('Análise do CSV de Mortes para o chefe de Elden Ring - Malenia')
